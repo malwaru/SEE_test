@@ -1,0 +1,2634 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.3.23)  26 MAY 2021 11:35
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+(./mas_report.cls
+Document Class: mas_report 2018/01/25 The MAS report class
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/theorem.sty
+Package: theorem 2014/10/28 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks20
+\theorem@bodyfont=\toks21
+\theorempreskipamount=\skip48
+\theorempostskipamount=\skip49
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/thp.sty
+File: thp.sty 2014/10/28 v2.2c Theorem extension package (FMi)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count101
+\lst@gtempboxa=\box28
+\lst@token=\toks22
+\lst@length=\count102
+\lst@currlwidth=\dimen114
+\lst@column=\count103
+\lst@pos=\count104
+\lst@lostspace=\dimen115
+\lst@width=\dimen116
+\lst@newlines=\count105
+\lst@lineno=\count106
+\lst@maxwidth=\dimen117
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count107
+\lst@skipnumbers=\count108
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen118
+\lightrulewidth=\dimen119
+\cmidrulewidth=\dimen120
+\belowrulesep=\dimen121
+\belowbottomsep=\dimen122
+\aboverulesep=\dimen123
+\abovetopsep=\dimen124
+\cmidrulesep=\dimen125
+\cmidrulekern=\dimen126
+\defaultaddspace=\dimen127
+\@cmidla=\count109
+\@cmidlb=\count110
+\@aboverulesep=\dimen128
+\@belowrulesep=\dimen129
+\@thisruleclass=\count111
+\@lastruleclass=\count112
+\@thisrulewidth=\dimen130
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+\MT@toks=\toks23
+\MT@count=\count113
+LaTeX Info: Redefining \textls on input line 793.
+\MT@outer@kern=\dimen131
+LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+\MT@listname@count=\count114
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 913.
+LaTeX Info: Redefining \lslig on input line 913.
+\MT@outer@space=\skip50
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count115
+\c@@ppsavesec=\count116
+\c@@ppsaveapp=\count117
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.sty
+Package: subfiles 2012/05/23 Federico Garcia
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read1
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count118
+\Gm@cntv=\count119
+\c@Gm@tempcnt=\count120
+\Gm@bindingoffset=\dimen132
+\Gm@wd@mp=\dimen133
+\Gm@odd@mp=\dimen134
+\Gm@even@mp=\dimen135
+\Gm@layoutwidth=\dimen136
+\Gm@layoutheight=\dimen137
+\Gm@layouthoffset=\dimen138
+\Gm@layoutvoffset=\dimen139
+\Gm@dimlist=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count121
+\float@exts=\toks27
+\float@box=\box30
+\@float@everytoks=\toks28
+\@floatcapt=\box31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen140
+\captionmargin@=\dimen141
+\captionwidth=\dimen142
+\caption@tempdima=\dimen143
+\caption@indent=\dimen144
+\caption@parindent=\dimen145
+\caption@hangindent=\dimen146
+)
+\c@ContinuedFloat=\count122
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count123
+\c@subtable=\count124
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count125
+\multirow@dima=\skip52
+\bigstrutjot=\dimen147
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count126
+\rotFPtop=\skip53
+\rotFPbot=\skip54
+\rot@float@box=\box32
+\rot@mess@toks=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen148
+\Hy@linkcounter=\count127
+\Hy@pagecounter=\count128
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count129
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count130
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen149
+\Fld@menulength=\count131
+\Field@Width=\dimen150
+\Fld@charsize=\dimen151
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count132
+\c@Item=\count133
+\c@Hfootnote=\count134
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count135
+\c@bookmark@seq@number=\count136
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip56
+\thanksmargin=\skip57
+\droptitle=\skip58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count137
+)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2017/07/08 v1.3.1 fvextra - extensions and patches for fancyvr
+b
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count139
+\FV@InFile=\read2
+\FV@TabBox=\box33
+\c@FancyVerbLine=\count140
+\FV@StepNumber=\count141
+\FV@OutFile=\write3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count142
+\output=\toks30
+\linenoprevgraf=\count143
+\linenumbersep=\dimen152
+\linenumberwidth=\dimen153
+\c@linenumber=\count144
+\c@pagewiselinenumber=\count145
+\c@LN@truepage=\count146
+\c@internallinenumber=\count147
+\c@internallinenumbers=\count148
+\quotelinenumbersep=\dimen154
+\bframerule=\dimen155
+\bframesep=\dimen156
+\bframebox=\box34
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count149
+\c@FV@TrueTabCounter=\count150
+\FV@TabBox@Group=\box35
+\FV@TmpLength=\skip59
+\c@FV@HighlightLinesStart=\count151
+\c@FV@HighlightLinesStop=\count152
+\FV@LoopCount=\count153
+\FV@NCharsBox=\box36
+\FV@BreakIndent=\dimen157
+\FV@BreakIndentNChars=\count154
+\FV@BreakSymbolSepLeft=\dimen158
+\FV@BreakSymbolSepLeftNChars=\count155
+\FV@BreakSymbolSepRight=\dimen159
+\FV@BreakSymbolSepRightNChars=\count156
+\FV@BreakSymbolIndentLeft=\dimen160
+\FV@BreakSymbolIndentLeftNChars=\count157
+\FV@BreakSymbolIndentRight=\dimen161
+\FV@BreakSymbolIndentRightNChars=\count158
+\c@FancyVerbLineBreakLast=\count159
+\FV@LineBox=\box37
+\FV@LineIndentBox=\box38
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count160
+\calc@Bcount=\count161
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count162
+\calc@Cskip=\skip62
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
+)
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+) (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count163
+\decimalpart=\count164
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip63
+\fb@frw=\dimen164
+\fb@frh=\dimen165
+\FrameRule=\dimen166
+\FrameSep=\dimen167
+)
+\minted@appexistsfile=\read3
+\minted@bgbox=\box39
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count165
+\c@minted@pygmentizecounter=\count166
+\@float@every@listing=\toks31
+\c@listing=\count167
+)
+runsystem(mkdir -p _minted-report)...disabled (restricted).
+
+
+
+./mas_report.cls:71: Package minted Error: You must invoke LaTeX with the -shel
+l-escape flag.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 \usepackage
+                {xcolor}
+Pass the -shell-escape flag to LaTeX. Refer to the minted.sty documentation for
+ more information.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen168
+\AM@pageheight=\dimen169
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box40
+\AM@global@opts=\toks32
+\AM@toc@title=\toks33
+\c@AM@survey=\count168
+\AM@templatesizebox=\box41
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box42
+\beforetitleunit=\skip64
+\aftertitleunit=\skip65
+\ttl@plus=\dimen170
+\ttl@minus=\dimen171
+\ttl@toksa=\toks34
+\titlewidth=\dimen172
+\titlewidthlast=\dimen173
+\titlewidthfirst=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip66
+\f@nch@O@elh=\skip67
+\f@nch@O@erh=\skip68
+\f@nch@O@olh=\skip69
+\f@nch@O@orh=\skip70
+\f@nch@O@elf=\skip71
+\f@nch@O@erf=\skip72
+\f@nch@O@olf=\skip73
+\f@nch@O@orf=\skip74
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
+File: block.tss 2016/03/15
+))
+
+LaTeX Warning: You have requested package `',
+               but the package provides `svglatex'.
+
+Package: svglatex 
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks35
+\XKV@tempa@toks=\toks36
+)
+\XKV@depth=\count169
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/02/21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/02/21 L3 programming layer (code)
+\c_max_int=\count170
+\l_tmpa_int=\count171
+\l_tmpb_int=\count172
+\g_tmpa_int=\count173
+\g_tmpb_int=\count174
+\g__intarray_font_int=\count175
+\g__prg_map_int=\count176
+\c_log_iow=\count177
+\l_iow_line_count_int=\count178
+\l__iow_line_target_int=\count179
+\l__iow_one_indent_int=\count180
+\l__iow_indent_int=\count181
+\c_zero_dim=\dimen175
+\c_max_dim=\dimen176
+\l_tmpa_dim=\dimen177
+\l_tmpb_dim=\dimen178
+\g_tmpa_dim=\dimen179
+\g_tmpb_dim=\dimen180
+\c_zero_skip=\skip75
+\c_max_skip=\skip76
+\l_tmpa_skip=\skip77
+\l_tmpb_skip=\skip78
+\g_tmpa_skip=\skip79
+\g_tmpb_skip=\skip80
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count182
+\c__fp_leading_shift_int=\count183
+\c__fp_middle_shift_int=\count184
+\c__fp_trailing_shift_int=\count185
+\c__fp_big_leading_shift_int=\count186
+\c__fp_big_middle_shift_int=\count187
+\c__fp_big_trailing_shift_int=\count188
+\c__fp_Bigg_leading_shift_int=\count189
+\c__fp_Bigg_middle_shift_int=\count190
+\c__fp_Bigg_trailing_shift_int=\count191
+\c__fp_rand_size_int=\count192
+\c__fp_rand_four_int=\count193
+\c__fp_rand_eight_int=\count194
+\l__sort_length_int=\count195
+\l__sort_min_int=\count196
+\l__sort_top_int=\count197
+\l__sort_max_int=\count198
+\l__sort_true_max_int=\count199
+\l__sort_block_int=\count266
+\l__sort_begin_int=\count267
+\l__sort_end_int=\count268
+\l__sort_A_int=\count269
+\l__sort_B_int=\count270
+\l__sort_C_int=\count271
+\l__tl_build_start_index_int=\count272
+\l__tl_build_index_int=\count273
+\l__tl_analysis_normal_int=\count274
+\l__tl_analysis_index_int=\count275
+\l__tl_analysis_nesting_int=\count276
+\l__tl_analysis_type_int=\count277
+\l__regex_internal_a_int=\count278
+\l__regex_internal_b_int=\count279
+\l__regex_internal_c_int=\count280
+\l__regex_balance_int=\count281
+\l__regex_group_level_int=\count282
+\l__regex_mode_int=\count283
+\c__regex_cs_in_class_mode_int=\count284
+\c__regex_cs_mode_int=\count285
+\l__regex_catcodes_int=\count286
+\l__regex_default_catcodes_int=\count287
+\c__regex_catcode_D_int=\count288
+\c__regex_catcode_S_int=\count289
+\c__regex_catcode_L_int=\count290
+\c__regex_catcode_O_int=\count291
+\c__regex_catcode_A_int=\count292
+\c__regex_all_catcodes_int=\count293
+\l__regex_show_lines_int=\count294
+\l__regex_min_state_int=\count295
+\l__regex_max_state_int=\count296
+\l__regex_left_state_int=\count297
+\l__regex_right_state_int=\count298
+\l__regex_capturing_group_int=\count299
+\l__regex_min_pos_int=\count300
+\l__regex_max_pos_int=\count301
+\l__regex_curr_pos_int=\count302
+\l__regex_start_pos_int=\count303
+\l__regex_success_pos_int=\count304
+\l__regex_curr_char_int=\count305
+\l__regex_curr_catcode_int=\count306
+\l__regex_last_char_int=\count307
+\l__regex_case_changed_char_int=\count308
+\l__regex_curr_state_int=\count309
+\l__regex_step_int=\count310
+\l__regex_min_active_int=\count311
+\l__regex_max_active_int=\count312
+\l__regex_replacement_csnames_int=\count313
+\l__regex_match_count_int=\count314
+\l__regex_min_submatch_int=\count315
+\l__regex_submatch_int=\count316
+\l__regex_zeroth_submatch_int=\count317
+\g__regex_trace_regex_int=\count318
+\c_empty_box=\box43
+\l_tmpa_box=\box44
+\l_tmpb_box=\box45
+\g_tmpa_box=\box46
+\g_tmpb_box=\box47
+\l__box_top_dim=\dimen181
+\l__box_bottom_dim=\dimen182
+\l__box_left_dim=\dimen183
+\l__box_right_dim=\dimen184
+\l__box_top_new_dim=\dimen185
+\l__box_bottom_new_dim=\dimen186
+\l__box_left_new_dim=\dimen187
+\l__box_right_new_dim=\dimen188
+\l__box_internal_box=\box48
+\l__coffin_internal_box=\box49
+\l__coffin_internal_dim=\dimen189
+\l__coffin_offset_x_dim=\dimen190
+\l__coffin_offset_y_dim=\dimen191
+\l__coffin_x_dim=\dimen192
+\l__coffin_y_dim=\dimen193
+\l__coffin_x_prime_dim=\dimen194
+\l__coffin_y_prime_dim=\dimen195
+\c_empty_coffin=\box50
+\l__coffin_aligned_coffin=\box51
+\l__coffin_aligned_internal_coffin=\box52
+\l_tmpa_coffin=\box53
+\l_tmpb_coffin=\box54
+\l__coffin_display_coffin=\box55
+\l__coffin_display_coord_coffin=\box56
+\l__coffin_display_pole_coffin=\box57
+\l__coffin_display_offset_dim=\dimen196
+\l__coffin_display_x_dim=\dimen197
+\l__coffin_display_y_dim=\dimen198
+\l__coffin_bounding_shift_dim=\dimen199
+\l__coffin_left_corner_dim=\dimen256
+\l__coffin_right_corner_dim=\dimen257
+\l__coffin_bottom_corner_dim=\dimen258
+\l__coffin_top_corner_dim=\dimen259
+\l__coffin_scaled_total_height_dim=\dimen260
+\l__coffin_scaled_width_dim=\dimen261
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count319
+\l__driver_tmp_box=\box58
+))
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count320
+\g__xparse_grabber_int=\count321
+\l__xparse_m_args_int=\count322
+\l__xparse_mandatory_args_int=\count323
+\l__xparse_v_nesting_int=\count324
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+\c@abspage=\count325
+Package zref Info: New property: abspage on input line 62.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip81
+\c@mdf@globalstyle@cnt=\count326
+\mdf@skipabove@length=\skip82
+\mdf@skipbelow@length=\skip83
+\mdf@leftmargin@length=\skip84
+\mdf@rightmargin@length=\skip85
+\mdf@innerleftmargin@length=\skip86
+\mdf@innerrightmargin@length=\skip87
+\mdf@innertopmargin@length=\skip88
+\mdf@innerbottommargin@length=\skip89
+\mdf@splittopskip@length=\skip90
+\mdf@splitbottomskip@length=\skip91
+\mdf@outermargin@length=\skip92
+\mdf@innermargin@length=\skip93
+\mdf@linewidth@length=\skip94
+\mdf@innerlinewidth@length=\skip95
+\mdf@middlelinewidth@length=\skip96
+\mdf@outerlinewidth@length=\skip97
+\mdf@roundcorner@length=\skip98
+\mdf@footenotedistance@length=\skip99
+\mdf@userdefinedwidth@length=\skip100
+\mdf@needspace@length=\skip101
+\mdf@frametitleaboveskip@length=\skip102
+\mdf@frametitlebelowskip@length=\skip103
+\mdf@frametitlerulewidth@length=\skip104
+\mdf@frametitleleftmargin@length=\skip105
+\mdf@frametitlerightmargin@length=\skip106
+\mdf@shadowsize@length=\skip107
+\mdf@extratopheight@length=\skip108
+\mdf@subtitleabovelinewidth@length=\skip109
+\mdf@subtitlebelowlinewidth@length=\skip110
+\mdf@subtitleaboveskip@length=\skip111
+\mdf@subtitlebelowskip@length=\skip112
+\mdf@subtitleinneraboveskip@length=\skip113
+\mdf@subtitleinnerbelowskip@length=\skip114
+\mdf@subsubtitleabovelinewidth@length=\skip115
+\mdf@subsubtitlebelowlinewidth@length=\skip116
+\mdf@subsubtitleaboveskip@length=\skip117
+\mdf@subsubtitlebelowskip@length=\skip118
+\mdf@subsubtitleinneraboveskip@length=\skip119
+\mdf@subsubtitleinnerbelowskip@length=\skip120
+
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box59
+\mdf@footnotebox=\box60
+\mdf@splitbox@one=\box61
+\mdf@splitbox@two=\box62
+\mdf@splitbox@save=\box63
+\mdfsplitboxwidth=\skip121
+\mdfsplitboxtotalwidth=\skip122
+\mdfsplitboxheight=\skip123
+\mdfsplitboxdepth=\skip124
+\mdfsplitboxtotalheight=\skip125
+\mdfframetitleboxwidth=\skip126
+\mdfframetitleboxtotalwidth=\skip127
+\mdfframetitleboxheight=\skip128
+\mdfframetitleboxdepth=\skip129
+\mdfframetitleboxtotalheight=\skip130
+\mdffootnoteboxwidth=\skip131
+\mdffootnoteboxtotalwidth=\skip132
+\mdffootnoteboxheight=\skip133
+\mdffootnoteboxdepth=\skip134
+\mdffootnoteboxtotalheight=\skip135
+\mdftotallinewidth=\skip136
+\mdfboundingboxwidth=\skip137
+\mdfboundingboxtotalwidth=\skip138
+\mdfboundingboxheight=\skip139
+\mdfboundingboxdepth=\skip140
+\mdfboundingboxtotalheight=\skip141
+\mdf@freevspace@length=\skip142
+\mdf@horizontalwidthofbox@length=\skip143
+\mdf@verticalmarginwhole@length=\skip144
+\mdf@horizontalspaceofbox=\skip145
+\mdfsubtitleheight=\skip146
+\mdfsubsubtitleheight=\skip147
+\c@mdfcountframes=\count327
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newmdtheoremenv with sig. 'O{} m o m o ' on line 601.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
+.................................................
+\mdf@envdepth=\count328
+\c@mdf@env@i=\count329
+\c@mdf@env@ii=\count330
+\c@mdf@zref@counter=\count331
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+./report.tex:46: Missing \endcsname inserted.
+<to be read again> 
+                   \opt@. 
+l.46 \ProcessOptionsX\relax
+                           
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+./report.tex:46: LaTeX Error: Unknown option `\opt@. ' for package `'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \ProcessOptionsX\relax
+                           
+The option `\opt@. ' was not declared in package `', perhaps you
+misspelled its name. Try typing  <return>  to proceed.
+
+runsystem(which pygmentize && touch report.aex)...disabled (restricted).
+
+
+./report.tex:93: Package minted Error: You must have `pygmentize' installed to 
+use this package.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 \begin{document}
+                     
+Refer to the installation instructions in the minted documentation for more inf
+ormation.
+
+
+LaTeX Warning: Unused global option(s):
+    [twosides].
+
+(./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 93.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 93.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count332
+\scratchdimen=\dimen262
+\scratchbox=\box64
+\nofMPsegments=\count333
+\nofMParguments=\count334
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen263
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
+\everyMPtoPDFconversion=\toks38
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count338
+LaTeX Info: Redefining \microtypecontext on input line 93.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=591.5302pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-0.93083pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=115.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box65
+Package hyperref Info: Link coloring OFF on input line 93.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count339
+)
+LaTeX Info: Redefining \ref on input line 93.
+LaTeX Info: Redefining \pageref on input line 93.
+LaTeX Info: Redefining \nameref on input line 93.
+
+(./report.out) (./report.out)
+\@outlinefile=\write6
+\openout6 = `report.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 93.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 93.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 440.44795pt, 71.70166pt)
+* v-part:(T,H,B)=(101.40665pt, 658.28194pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=440.44795pt
+* \textheight=658.28194pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-0.56833pt
+* \topmargin=-0.93083pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=115.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images/Logo-HBRS-cyan.png, id=180, 1965.3425pt x 353.32pt>
+File: images/Logo-HBRS-cyan.png Graphic file (type png)
+<use images/Logo-HBRS-cyan.png>
+Package pdftex.def Info: images/Logo-HBRS-cyan.png  used on input line 97.
+(pdftex.def)             Requested size: 205.72229pt x 36.98866pt.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 97.
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 97.
+
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 97.
+
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 97.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 97.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 97.
+LaTeX Font Info:    Try loading font information for U+msa on input line 97.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 97.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+<images/b-it.pdf, id=181, 1949.2825pt x 516.93124pt>
+File: images/b-it.pdf Graphic file (type pdf)
+<use images/b-it.pdf>
+Package pdftex.def Info: images/b-it.pdf  used on input line 97.
+(pdftex.def)             Requested size: 139.46782pt x 36.98866pt.
+ [1
+
+
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/Logo-HBRS-cyan.pn
+g> <./images/b-it.pdf>] [2
+
+
+] (./report.toc [3
+
+])
+\tf@toc=\write7
+\openout7 = `report.toc'.
+
+ [4] (./chapters/ch01_experiment_01.tex
+Chapter 1.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 19.
+(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<images/FrontView.jpeg, id=255, 770.88pt x 1027.84pt>
+File: images/FrontView.jpeg Graphic file (type jpg)
+<use images/FrontView.jpeg>
+Package pdftex.def Info: images/FrontView.jpeg  used on input line 23.
+(pdftex.def)             Requested size: 231.26578pt x 308.35437pt.
+<images/TopView3.jpeg, id=256, 770.88pt x 1027.84pt>
+File: images/TopView3.jpeg Graphic file (type jpg)
+<use images/TopView3.jpeg>
+Package pdftex.def Info: images/TopView3.jpeg  used on input line 30.
+(pdftex.def)             Requested size: 231.26578pt x 308.35437pt.
+<images/SideView.jpeg, id=259, 1027.84pt x 770.88pt>
+File: images/SideView.jpeg Graphic file (type jpg)
+<use images/SideView.jpeg>
+Package pdftex.def Info: images/SideView.jpeg  used on input line 48.
+(pdftex.def)             Requested size: 308.35437pt x 231.26578pt.
+<images/SideView2.jpeg, id=260, 770.88pt x 1027.84pt>
+File: images/SideView2.jpeg Graphic file (type jpg)
+<use images/SideView2.jpeg>
+Package pdftex.def Info: images/SideView2.jpeg  used on input line 55.
+(pdftex.def)             Requested size: 231.26578pt x 308.35437pt.
+ [1
+
+
+]
+
+LaTeX Warning: File `images/Measurement Facility.jpeg' not found on input line 
+66.
+
+<images/Measurement Facility.jpeg, id=269, 770.88pt x 1027.84pt>
+File: images/Measurement Facility.jpeg Graphic file (type jpg)
+<use images/Measurement Facility.jpeg>
+Package pdftex.def Info: images/Measurement Facility.jpeg  used on input line 6
+6.
+(pdftex.def)             Requested size: 231.26578pt x 308.35437pt.
+<images/angle.jpg, id=270, 1128.215pt x 1505.625pt>
+File: images/angle.jpg Graphic file (type jpg)
+<use images/angle.jpg>
+Package pdftex.def Info: images/angle.jpg  used on input line 73.
+(pdftex.def)             Requested size: 338.46712pt x 451.691pt.
+<images/grid.jpg, id=271, 770.88pt x 690.58pt>
+File: images/grid.jpg Graphic file (type jpg)
+<use images/grid.jpg>
+Package pdftex.def Info: images/grid.jpg  used on input line 80.
+(pdftex.def)             Requested size: 462.53157pt x 414.3512pt.
+
+Overfull \hbox (7.28746pt too wide) in paragraph at lines 80--81
+ [][] 
+ []
+
+[2 <./images/FrontView.jpeg>] [3 <./images/TopView3.jpeg>] [4 <./images/SideVie
+w.jpeg>]
+
+LaTeX Warning: File `"images/robot_dimensions.png' not found on input line 137.
+
+
+<"images/robot_dimensions.png, id=294, 490.83376pt x 510.90875pt>
+File: "images/robot_dimensions.png Graphic file (type png)
+<use "images/robot_dimensions.png>
+Package pdftex.def Info: "images/robot_dimensions.png  used on input line 137.
+(pdftex.def)             Requested size: 245.41628pt x 255.45375pt.
+
+LaTeX Warning: File `"images/robot_orientation2.png' not found on input line 14
+9.
+
+<"images/robot_orientation2.png, id=298, 773.89125pt x 1046.91125pt>
+File: "images/robot_orientation2.png Graphic file (type png)
+<use "images/robot_orientation2.png>
+Package pdftex.def Info: "images/robot_orientation2.png  used on input line 149
+.
+(pdftex.def)             Requested size: 232.16916pt x 314.0758pt.
+[5 <./images/SideView2.jpeg>] [6 <./images/Measurement Facility.jpeg>] [7 <./im
+ages/angle.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./images/grid.jpg>]
+
+LaTeX Warning: File `"images/error_propagation_direction.png' not found on inpu
+t line 219.
+
+<"images/error_propagation_direction.png, id=324, 324.46219pt x 420.06938pt>
+File: "images/error_propagation_direction.png Graphic file (type png)
+<use "images/error_propagation_direction.png>
+Package pdftex.def Info: "images/error_propagation_direction.png  used on input
+ line 219.
+(pdftex.def)             Requested size: 259.57008pt x 336.05597pt.
+[9 <./images/robot_dimensions.png>] [10 <./images/robot_orientation2.png>]
+\openout3 = `report.pyg'.
+
+runsystem(pygmentize -S default -f latex -P commandprefix=PYG > _minted-report/
+default-pyg-prefix.pygstyle)...disabled (restricted).
+
+
+
+./chapters/ch01_experiment_01.tex:491: Package minted Error: Missing Pygments o
+utput; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.491     \end{minted}^^M
+                         
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+runsystem(pygmentize -S default -f latex -P commandprefix=PYGdefault > _minted-
+report/default.pygstyle)...disabled (restricted).
+
+
+./chapters/ch01_experiment_01.tex:491: Package minted Error: Missing Pygments o
+utput; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.491     \end{minted}^^M
+                         
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+runsystem(pygmentize -l python -f latex -P commandprefix=PYG -F tokenmerge -o _
+minted-report/CDC9E1C174DED429E8CB6D42BF0E20AB7C2E7F49E087B8E8E8DF5244CE287E39.
+pygtex report.pyg)...disabled (restricted).
+
+
+./chapters/ch01_experiment_01.tex:491: Package minted Error: Missing Pygments o
+utput; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.491     \end{minted}
+                      
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+) (./chapters/ch02_experiment_02.tex [11 <./images/error_propagation_direction.
+png>] [12
+
+]
+Chapter 2.
+\openout3 = `report.pyg'.
+
+runsystem(pygmentize -l python -f latex -P commandprefix=PYG -F tokenmerge -o _
+minted-report/1B5DDE3B52E4C9E854542739A60E9F9B7C2E7F49E087B8E8E8DF5244CE287E39.
+pygtex report.pyg)...disabled (restricted).
+
+
+./chapters/ch02_experiment_02.tex:129: Package minted Error: Missing Pygments o
+utput; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129     \end{minted}
+                      
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+[13]
+
+./chapters/ch02_experiment_02.tex:140: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 ...]{"images/experiment_2/experiment-9.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:146: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 ...]{"images/experiment_2/experiment-7.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:154: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 ...]{"images/experiment_2/experiment-5.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:162: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 ...]{"images/experiment_2/experiment-2.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:168: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 ...]{"images/experiment_2/experiment-8.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:174: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174 ...]{"images/experiment_2/experiment-6.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:187: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.187 ....0]{"images/experiment_2/experiment.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[14]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15]
+Overfull \vbox (7.27293pt too high) has occurred while \output is active []
+
+
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+
+./chapters/ch02_experiment_02.tex:337: LaTeX Error: Unknown graphics extension:
+ .end-poses.png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.337 ...0]{"images/experiment_2/1.end-poses.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:343: LaTeX Error: Unknown graphics extension:
+ .path.png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.343 ...le=.60]{"images/experiment_2/2.path.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:349: LaTeX Error: Unknown graphics extension:
+ .merged-end-poses.png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.349 ...ges/experiment_2/3.merged-end-poses.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:355: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 ..."images/experiment_2/Figure_forward.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:361: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.361 ...es/experiment_2/Figure_forward_zoom.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:367: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.367 ...]{"images/experiment_2/Figure_right.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:373: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.373 ...ages/experiment_2/Figure_right_zoom.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:379: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 ...0]{"images/experiment_2/Figure_left.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch02_experiment_02.tex:386: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.386 ...mages/experiment_2/Figure_left_zoom.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./chapters/ch03_experiment_03.tex [19] [20
+
+]
+Chapter 3.
+[21]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 41.
+
+\openout3 = `report.pyg'.
+
+runsystem(pygmentize -l python -f latex -P commandprefix=PYG -F tokenmerge -o _
+minted-report/94F01239CBE57E558E39CC68776D33337C2E7F49E087B8E8E8DF5244CE287E39.
+pygtex report.pyg)...disabled (restricted).
+
+
+./chapters/ch03_experiment_03.tex:97: Package minted Error: Missing Pygments ou
+tput; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97             \end{minted}
+                             
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+
+Package caption Warning: \label without proper reference on input line 318.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:guassianforwardx' on page 22 undefined on input l
+ine 105.
+
+
+Package caption Warning: \label without proper reference on input line 321.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:guassianforwardy' on page 22 undefined on input l
+ine 105.
+
+
+Package caption Warning: \label without proper reference on input line 324.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:guassianforwardtheta' on page 22 undefined on inp
+ut line 105.
+
+
+Package caption Warning: \label without proper reference on input line 335.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:guassianleftx' on page 22 undefined on input line
+ 105.
+
+
+Package caption Warning: \label without proper reference on input line 338.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:guassianlefty' on page 22 undefined on input line
+ 105.
+
+
+Package caption Warning: \label without proper reference on input line 341.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:guassianlefttheta' on page 22 undefined on input 
+line 105.
+
+
+Package caption Warning: \label without proper reference on input line 351.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:guassianrightx' on page 22 undefined on input lin
+e 105.
+
+
+Package caption Warning: \label without proper reference on input line 354.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:guassianrighty' on page 22 undefined on input lin
+e 105.
+
+
+Package caption Warning: \label without proper reference on input line 357.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:guassianrighttheta' on page 22 undefined on input
+ line 105.
+
+\openout3 = `report.pyg'.
+
+runsystem(pygmentize -l python -f latex -P commandprefix=PYG -F tokenmerge -o _
+minted-report/5DBD2F10CAE9B3B45ECD9A30A0359C1A7C2E7F49E087B8E8E8DF5244CE287E39.
+pygtex report.pyg)...disabled (restricted).
+
+
+./chapters/ch03_experiment_03.tex:218: Package minted Error: Missing Pygments o
+utput; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218         \end{minted}
+                          
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+[22]
+\openout3 = `report.pyg'.
+
+runsystem(pygmentize -l python -f latex -P commandprefix=PYG -F tokenmerge -o _
+minted-report/5666B7DA7551CA0D924F3BF0AE3BDA757C2E7F49E087B8E8E8DF5244CE287E39.
+pygtex report.pyg)...disabled (restricted).
+
+
+
+./chapters/ch03_experiment_03.tex:259: Package minted Error: Missing Pygments o
+utput; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.259            \end{minted}
+                             
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+[23] [24]
+./chapters/ch03_experiment_03.tex:318: Undefined control sequence.
+l.318        \subfloat
+                      [X-axis coordinates \label{fig:guassianforwardx}]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapters/ch03_experiment_03.tex:319: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.319 .../normal_distribution_forward_x (cm).png"}
+                                                  }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./chapters/ch03_experiment_03.tex:321: Undefined control sequence.
+l.321        \subfloat
+                      [Y-axis coordinates \label{fig:guassianforwardy} ]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapters/ch03_experiment_03.tex:322: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 .../normal_distribution_forward_y (cm).png"}
+                                                  }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./chapters/ch03_experiment_03.tex:324: Undefined control sequence.
+l.324        \subfloat
+                      [Orientation \label{fig:guassianforwardtheta}]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapters/ch03_experiment_03.tex:325: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.325 ...al_distribution_forward_theta (deg).png"}
+                                                  }\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./chapters/ch03_experiment_03.tex:335: Undefined control sequence.
+l.335        \subfloat
+                      [X-axis coordinates  \label{fig:guassianleftx}]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapters/ch03_experiment_03.tex:336: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.336 ...t_3/normal_distribution_left_x (cm).png"}
+                                                  }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./chapters/ch03_experiment_03.tex:338: Undefined control sequence.
+l.338        \subfloat
+                      [Y-axis coordinates  \label{fig:guassianlefty} ]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapters/ch03_experiment_03.tex:339: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.339 ...t_3/normal_distribution_left_y (cm).png"}
+                                                  }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./chapters/ch03_experiment_03.tex:341: Undefined control sequence.
+l.341        \subfloat
+                      [Orientation \label{fig:guassianlefttheta}]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapters/ch03_experiment_03.tex:342: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.342 ...ormal_distribution_left_theta (deg).png"}
+                                                  }\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./chapters/ch03_experiment_03.tex:351: Undefined control sequence.
+l.351        \subfloat
+                      [X-axis coordinates  \label{fig:guassianrightx}]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapters/ch03_experiment_03.tex:352: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.352 ..._3/normal_distribution_right_x (cm).png"}
+                                                  }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./chapters/ch03_experiment_03.tex:354: Undefined control sequence.
+l.354        \subfloat
+                      [Y-axis coordinates  \label{fig:guassianrighty} ]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapters/ch03_experiment_03.tex:355: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 ..._3/normal_distribution_right_y (cm).png"}
+                                                  }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./chapters/ch03_experiment_03.tex:357: Undefined control sequence.
+l.357        \subfloat
+                      [Orientation \label{fig:guassianrighttheta}]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./chapters/ch03_experiment_03.tex:358: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.358 ...rmal_distribution_right_theta (deg).png"}
+                                                  }\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch03_experiment_03.tex:368: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.368 ...pse for Measurements of Forward Run.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch03_experiment_03.tex:374: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.374 ...llipse for Measurements of Left Run.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch03_experiment_03.tex:380: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.380 ...lipse for Measurements of Right Run.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<images/pdf/forward_movements_measured_and_encoded.pdf, id=479, page=1, 614.295
+pt x 614.50551pt>
+File: images/pdf/forward_movements_measured_and_encoded.pdf Graphic file (type 
+pdf)
+<use images/pdf/forward_movements_measured_and_encoded.pdf, page 1>
+Package pdftex.def Info: images/pdf/forward_movements_measured_and_encoded.pdf 
+, page1 used on input line 401.
+(pdftex.def)             Requested size: 307.14674pt x 307.252pt.
+<images/pdf/left_movements_measured_and_encoded.pdf, id=480, page=1, 614.295pt 
+x 614.50551pt>
+File: images/pdf/left_movements_measured_and_encoded.pdf Graphic file (type pdf
+)
+<use images/pdf/left_movements_measured_and_encoded.pdf, page 1>
+Package pdftex.def Info: images/pdf/left_movements_measured_and_encoded.pdf , p
+age1 used on input line 408.
+(pdftex.def)             Requested size: 307.14674pt x 307.252pt.
+<images/pdf/right_movements_measured_and_encoded.pdf, id=481, page=1, 614.295pt
+ x 614.50551pt>
+File: images/pdf/right_movements_measured_and_encoded.pdf Graphic file (type pd
+f)
+<use images/pdf/right_movements_measured_and_encoded.pdf, page 1>
+Package pdftex.def Info: images/pdf/right_movements_measured_and_encoded.pdf , 
+page1 used on input line 416.
+(pdftex.def)             Requested size: 307.14674pt x 307.252pt.
+<images/pdf/ellipses_right_measured_vs_all_encoded.pdf, id=482, page=1, 722.7pt
+ x 722.7pt>
+File: images/pdf/ellipses_right_measured_vs_all_encoded.pdf Graphic file (type 
+pdf)
+<use images/pdf/ellipses_right_measured_vs_all_encoded.pdf, page 1>
+Package pdftex.def Info: images/pdf/ellipses_right_measured_vs_all_encoded.pdf 
+, page1 used on input line 424.
+(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
+<images/pdf/ellipses_right_measured_vs_all_encoded_zoomed_in.pdf, id=483, page=
+1, 722.7pt x 722.7pt>
+File: images/pdf/ellipses_right_measured_vs_all_encoded_zoomed_in.pdf Graphic f
+ile (type pdf)
+<use images/pdf/ellipses_right_measured_vs_all_encoded_zoomed_in.pdf, page 1>
+Package pdftex.def Info: images/pdf/ellipses_right_measured_vs_all_encoded_zoom
+ed_in.pdf , page1 used on input line 431.
+(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
+<images/pdf/ellipses_right_measured_vs_good_encoded.pdf, id=484, page=1, 722.7p
+t x 722.7pt>
+File: images/pdf/ellipses_right_measured_vs_good_encoded.pdf Graphic file (type
+ pdf)
+<use images/pdf/ellipses_right_measured_vs_good_encoded.pdf, page 1>
+Package pdftex.def Info: images/pdf/ellipses_right_measured_vs_good_encoded.pdf
+ , page1 used on input line 439.
+(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
+<images/pdf/ellipses_right_measured_vs_good_encoded_zoomed_in.pdf, id=485, page
+=1, 722.7pt x 722.7pt>
+File: images/pdf/ellipses_right_measured_vs_good_encoded_zoomed_in.pdf Graphic 
+file (type pdf)
+<use images/pdf/ellipses_right_measured_vs_good_encoded_zoomed_in.pdf, page 1>
+Package pdftex.def Info: images/pdf/ellipses_right_measured_vs_good_encoded_zoo
+med_in.pdf , page1 used on input line 446.
+(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
+) (./chapters/ch04_experiment_04.tex [25] [26 <./images/pdf/forward_movements_m
+easured_and_encoded.pdf>] [27 <./images/pdf/left_movements_measured_and_encoded
+.pdf>] [28 <./images/pdf/right_movements_measured_and_encoded.pdf> <./images/pd
+f/ellipses_right_measured_vs_all_encoded.pdf>] [29 <./images/pdf/ellipses_right
+_measured_vs_all_encoded_zoomed_in.pdf> <./images/pdf/ellipses_right_measured_v
+s_good_encoded.pdf
+
+pdfTeX warning: pdflatex (file ./images/pdf/ellipses_right_measured_vs_good_enc
+oded.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+>] [30 <./images/pdf/ellipses_right_measured_vs_good_encoded_zoomed_in.pdf>]
+Chapter 4.
+<images/experiment_4/IMG_1321.jpg, id=742, 1128.215pt x 1505.625pt>
+File: images/experiment_4/IMG_1321.jpg Graphic file (type jpg)
+<use images/experiment_4/IMG_1321.jpg>
+Package pdftex.def Info: images/experiment_4/IMG_1321.jpg  used on input line 3
+0.
+(pdftex.def)             Requested size: 191.794pt x 255.95287pt.
+[31
+
+]
+<images/experiment_4/IMG_1324.jpg, id=749, 1128.215pt x 1505.625pt>
+File: images/experiment_4/IMG_1324.jpg Graphic file (type jpg)
+<use images/experiment_4/IMG_1324.jpg>
+Package pdftex.def Info: images/experiment_4/IMG_1324.jpg  used on input line 3
+7.
+(pdftex.def)             Requested size: 191.794pt x 255.95287pt.
+<images/experiment_4/IMG_1327.jpg, id=750, 774.895pt x 1128.215pt>
+File: images/experiment_4/IMG_1327.jpg Graphic file (type jpg)
+<use images/experiment_4/IMG_1327.jpg>
+Package pdftex.def Info: images/experiment_4/IMG_1327.jpg  used on input line 4
+4.
+(pdftex.def)             Requested size: 154.97626pt x 225.63899pt.
+
+Underfull \vbox (badness 1867) has occurred while \output is active []
+
+ [32 <./images/experiment_4/IMG_1321.jpg> <./images/experiment_4/IMG_1324.jpg>]
+ [33 <./images/experiment_4/IMG_1327.jpg>]
+
+./chapters/ch04_experiment_04.tex:69: LaTeX Error: Unknown graphics extension: 
+.png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 ...es/experiment_4/pinhole_camera_model.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Package natbib Warning: Citation `2014opencv' on page 34 undefined on input lin
+e 70.
+
+
+Package natbib Warning: Citation `2014opencv' on page 34 undefined on input lin
+e 70.
+
+[34] [35] [36]
+
+./chapters/ch04_experiment_04.tex:231: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.231 ...images/experiment_4/corner_detected.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[37]
+
+./chapters/ch04_experiment_04.tex:242: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.242 ...0.6]{"images/experiment_4/no_corner.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch04_experiment_04.tex:251: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 ...eriment_4/before_n_after_distortion.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\openout3 = `report.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
+ted-report/5DB37D08BF124F74C88C8F7AB27AC77B938C15273FFC38043D09768A5ACA2810.pyg
+tex report.pyg)...disabled (restricted).
+
+
+./chapters/ch04_experiment_04.tex:597: Package minted Error: Missing Pygments o
+utput; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.597         \end{minted}
+                          
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+) (./chapters/ch05_experiment_05.tex [38]
+Chapter 5.
+[39
+
+]
+
+./chapters/ch05_experiment_05.tex:44: LaTeX Error: Unknown graphics extension: 
+.jpg".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 ...]{"images/experiment_5/camera_system.jpg"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:52: LaTeX Error: Unknown graphics extension: 
+.png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...mages/experiment_5/Coordinate_system.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 63.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 96.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 130.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 168.
+
+
+Overfull \hbox (69.17479pt too wide) in paragraph at lines 170--195
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 201.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 203.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 203.
+
+Overfull \hbox (8.45447pt too wide) in paragraph at lines 203--228
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 235.
+
+
+Overfull \hbox (49.8415pt too wide) in paragraph at lines 237--262
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 275.
+
+[40] [41] [42] [43] [44]
+
+./chapters/ch05_experiment_05.tex:313: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.313 ...r_objects_in_the_straight_direction.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:320: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320 ...n_the_straight (filtered)_direction.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:328: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.328 ...e_for_objects_in_the_left_direction.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:334: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.334 ...ts_in_the_left (filtered)_direction.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:342: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.342 ..._for_objects_in_the_right_direction.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:348: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.348 ...s_in_the_right (filtered)_direction.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:356: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.356 ..._objects_of_different_size_striaght.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:364: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.364 ..._for_objects_of_different_size_left.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:371: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.371 ...for_objects_of_different_size_right.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:379: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 ...5/Straight_motion_trajectory_camera.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:386: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.386 ...ent_5/Left_motion_trajectory_camera.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./chapters/ch05_experiment_05.tex:393: LaTeX Error: Unknown graphics extension:
+ .png".
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.393 ...nt_5/Right_motion_trajectory_camera.png"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./chapters/ch06_experiment_06.tex [45
+
+] [46
+
+]
+Chapter 6.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 20.
+
+
+Overfull \hbox (23.79019pt too wide) in paragraph at lines 21--61
+[][] 
+ []
+
+[47] [48]
+\openout3 = `report.pyg'.
+
+runsystem(pygmentize -l python -f latex -P commandprefix=PYG -F tokenmerge -o _
+minted-report/B25927120B713104BFCFA2A0632CDD717C2E7F49E087B8E8E8DF5244CE287E39.
+pygtex report.pyg)...disabled (restricted).
+
+
+
+./chapters/ch06_experiment_06.tex:93: Package minted Error: Missing Pygments ou
+tput; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93         \end{minted}
+                         
+This could be caused by using -output-directory or -aux-directory 
+without setting minted's outputdir, or by using a build tool that 
+changes paths in ways minted cannot detect, 
+or using frozencache with a missing file.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 97.
+
+) [49] [50
+
+]
+No file report.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
+(./report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 8632195C62DEACB2A133FB54FD611B89;2908.
+
+
+LaTeX Warning: There were undefined references.
+
+runsystem(rm report.pyg)...disabled (restricted).
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
+ ) 
+Here is how much of TeX's memory you used:
+ 25729 strings out of 494923
+ 459254 string characters out of 6180742
+ 819652 words of memory out of 5000000
+ 28315 multiletter control sequences out of 15000+600000
+ 591351 words of font info for 105 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 49i,15n,78p,10424b,641s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/l
+m/lm-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/tex
+mf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmb
+x8.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/s
+hare/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on report.pdf (54 pages, 2945129 bytes).
+PDF statistics:
+ 1007 PDF objects out of 1200 (max. 8388607)
+ 743 compressed objects within 8 object streams
+ 199 named destinations out of 1000 (max. 500000)
+ 15823 words of extra memory for PDF output out of 17280 (max. 10000000)
+

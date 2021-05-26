@@ -1,0 +1,44 @@
+\BOOKMARK [0][-]{chapter.1}{Task 1.1}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Deliverables 1.1}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Design of Robot}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Measurement Process}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.3.1}{Estimate of Error}{section.1.3}% 5
+\BOOKMARK [1][-]{section.1.4}{Error Propagation}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Task 1.2}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Deliverables 1.2}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{Program \046 Parameters}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.3}{Observations}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.3.1}{Before the experiment}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.2}{During the experiment}{section.2.3}% 12
+\BOOKMARK [2][-]{subsection.2.3.3}{After the experiment}{section.2.3}% 13
+\BOOKMARK [1][-]{section.2.4}{Data Collected}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.5}{Visualisations}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Task 2.0}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Deliverables 2}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Preprocessing of Data}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.3}{Fitting a Gaussian for each measurement}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.4}{Uncertainity Ellipses after PCA}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.5}{List of software used}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.6}{Observations regarding manual measurements and encoder logs}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.6.1}{Final Thoughts}{section.3.6}% 23
+\BOOKMARK [0][-]{chapter.4}{Task 4}{}% 24
+\BOOKMARK [1][-]{section.4.1}{Deliverables }{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.2}{Description of set up}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.4.2.1}{The set up}{section.4.2}% 27
+\BOOKMARK [2][-]{subsection.4.2.2}{The calibration process}{section.4.2}% 28
+\BOOKMARK [1][-]{section.4.3}{Description of calibration parameters}{chapter.4}% 29
+\BOOKMARK [2][-]{subsection.4.3.1}{Problems during calibration: error sources}{section.4.3}% 30
+\BOOKMARK [1][-]{section.4.4}{Results and discussion}{chapter.4}% 31
+\BOOKMARK [2][-]{subsection.4.4.1}{Calibration code}{section.4.4}% 32
+\BOOKMARK [0][-]{chapter.5}{Task 5}{}% 33
+\BOOKMARK [1][-]{section.5.1}{Deliverables }{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.2}{Observations}{chapter.5}% 35
+\BOOKMARK [2][-]{subsection.5.2.1}{Sources of error:}{section.5.2}% 36
+\BOOKMARK [1][-]{section.5.3}{Data Collection \046 Pose Filtering}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.4}{Visualisation}{chapter.5}% 38
+\BOOKMARK [0][-]{chapter.6}{Task 6}{}% 39
+\BOOKMARK [1][-]{section.6.1}{Deliverables }{chapter.6}% 40
+\BOOKMARK [1][-]{section.6.2}{Statistical analysis}{chapter.6}% 41
+\BOOKMARK [2][-]{subsection.6.2.1}{Accuracy and precision}{section.6.2}% 42
+\BOOKMARK [1][-]{section.6.3}{Statistical Significance Tests}{chapter.6}% 43
+\BOOKMARK [2][-]{subsection.6.3.1}{F-test}{section.6.3}% 44

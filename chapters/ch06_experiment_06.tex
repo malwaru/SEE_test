@@ -1,0 +1,137 @@
+%!TEX root = ../report.tex
+
+\begin{document}
+    \chapter{Task 6}
+    \section{Deliverables }
+    \begin{enumerate}
+        \item If necessary, rerun your experiment according to the feedback in class and describe how the new run improves on the previous run
+         \item Find suitable statistical techniques for analyzing the experimental results (using what you’ve learned during the LEGO experiment) and answer the list of questions mentioned above.
+         \item For the case of statistical significance tests (effects of different object and pose variations), you can use an F-test to perform the statistical analysis (e.g. comparing pair-wise variance).
+         \item For presenting the statistical parameters that characterize the observed robot behaviour, in your report, as an example, you can use the structure defined by table 5 (section A.2)
+         \item Mention the  list of  used software  and include  the  source  of  any functions  you wrote  for performing your analysis
+    \end{enumerate}
+    
+    \section{Statistical analysis}
+    \begin{itemize}
+        \item Data collected from all the groups were subjected to outlier removal as mentioned in section of chapter 5.
+        \item 
+    \end{itemize}
+    
+    \begin{table}[]\footnotesize
+    \begin{tabular}{@{}lllrrrrrrl@{}}
+    \toprule
+    Size   & Direction & Random var. & Mean     & Variance & Accuracy & Precision & Chi value & P value & Null hypothesis   \\ \midrule
+    large  & left      & x               & 35.532   & 0.196    & 0.990    & 4.854     & 26.678    & 0.001   & Reject            \\
+    large  & left      & y               & -27.343  & 0.053    & 0.992    & 5.626     & 42.512    & 0.000   & Reject            \\
+    large  & left      & theta           & -118.611 & 4.401    & 0.986    & 6.640     & 150.187   & 0.000   & Reject            \\
+    large  & right     & x               & -4.903   & 0.004    & 0.891    & 5.442     & 8.955     & 0.176   & Suggest to accept \\
+    large  & right     & y               & -34.396  & 0.035    & 0.995    & 6.589     & 14.078    & 0.015   & Reject            \\
+    large  & right     & theta           & -64.101  & 2.512    & 0.956    & 4.663     & 15.550    & 0.016   & Reject            \\
+    large  & straight  & x               & 16.421   & 0.025    & 0.992    & 5.017     & 6.799     & 0.340   & Suggest to accept \\
+    large  & straight  & y               & -20.883  & 0.009    & 0.986    & 6.852     & 23.240    & 0.001   & Reject            \\
+    large  & straight  & theta           & -93.731  & 1.756    & 0.988    & 5.207     & 1.419     & 0.701   & Suggest to accept \\
+    medium & left      & x               & 35.724   & 0.166    & 0.990    & 4.689     & 7.906     & 0.162   & Suggest to accept \\
+    medium & left      & y               & -27.157  & 0.031    & 0.995    & 5.184     & 3.806     & 0.578   & Suggest to accept \\
+    medium & left      & theta           & -119.803 & 8.942    & 0.980    & 4.658     & 24.765    & 0.000   & Reject            \\
+    medium & right     & x               & -5.107   & 0.007    & 0.928    & 4.075     & 5.854     & 0.210   & Suggest to accept \\
+    medium & right     & y               & -34.169  & 0.038    & 0.994    & 4.689     & 9.338     & 0.155   & Suggest to accept \\
+    medium & right     & theta           & -64.494  & 1.349    & 0.962    & 4.786     & 3.536     & 0.472   & Suggest to accept \\
+    medium & straight  & x               & 16.537   & 0.038    & 0.988    & 4.439     & 2.114     & 0.833   & Suggest to accept \\
+    medium & straight  & y               & -20.658  & 0.024    & 0.994    & 5.925     & 15.719    & 0.008   & Reject            \\
+    medium & straight  & theta           & -94.410  & 5.533    & 0.980    & 5.578     & 19.730    & 0.001   & Reject            \\
+    small  & left      & x               & 35.236   & 0.163    & 0.987    & 4.332     & 6.422     & 0.093   & Suggest to accept \\
+    small  & left      & y               & -27.489  & 0.028    & 0.989    & 4.521     & 16.845    & 0.005   & Reject            \\
+    small  & left      & theta           & -117.703 & 0.890    & 0.987    & 5.449     & 35.687    & 0.000   & Reject            \\
+    small  & right     & x               & -5.801   & 0.004    & 0.945    & 4.661     & 25.094    & 0.000   & Reject            \\
+    small  & right     & y               & -34.562  & 0.030    & 0.992    & 4.597     & 7.294     & 0.295   & Suggest to accept \\
+    small  & right     & theta           & -63.572  & 4.222    & 0.948    & 3.849     & 49.805    & 0.000   & Reject            \\
+    small  & straight  & x               & 15.915   & 0.037    & 0.970    & 3.698     & 13.483    & 0.004   & Reject            \\
+    small  & straight  & y               & -21.057  & 0.019    & 0.978    & 3.896     & 59.698    & 0.000   & Reject            \\
+    small  & straight  & theta           & -93.257  & 0.590    & 0.993    & 4.725     & 6.119     & 0.190   & Suggest to accept \\
+    all    & straight  & x               & 16.278   & 0.111    & 0.983    & 4.172     & 66.493    & 0.000   & Reject            \\
+    all    & straight  & y               & -20.880  & 0.041    & 0.986    & 4.593     & 21.904    & 0.025   & Reject            \\
+    all    & straight  & theta           & -93.638  & 2.584    & 0.988    & 7.316     & 119.031   & 0.000   & Reject            \\
+    all    & right     & x               & -5.266   & 0.150    & 0.922    & 3.172     & 204.180   & 0.000   & Reject            \\
+    all    & right     & y               & -34.370  & 0.071    & 0.994    & 5.889     & 48.107    & 0.000   & Reject            \\
+    all    & right     & theta           & -63.938  & 3.367    & 0.953    & 6.284     & 175.331   & 0.000   & Reject            \\
+    all    & left      & x               & 35.532   & 0.196    & 0.990    & 4.854     & 26.678    & 0.001   & Reject            \\
+    all    & left      & y               & -27.343  & 0.053    & 0.992    & 5.626     & 42.512    & 0.000   & Reject            \\
+    all    & left      & theta           & -118.611 & 4.401    & 0.986    & 6.640     & 150.187   & 0.000   & Reject            \\ \bottomrule
+    \end{tabular}
+    \end{table}
+
+    \subsection{Accuracy and precision}
+    
+    \section{Statistical Significance Tests}
+    \subsection{F-test}
+    \begin{itemize}
+        \item Right tailed F-test is carried out between different measurements obtained from different sizes of objects for each direction. 
+        \item The null hypothesis is that the variance of both the chosen variables are equal. 
+        \item In our experiment, we choose a significance level of 0.05. Thus, we suggest to accept the null hypothesis if the obtained p-value is greater than 0.05 and reject it otherwise.
+        \item Table \ref{tab:f-test} shows the results of the test.
+        \item The code used for this is given below:
+        
+        \begin{minted}{python}
+            import scipy
+            def f_test(variable1, variable2, alpha=0.05):
+                '''
+                The larger variance should always go in the numerator (the top number) to force the test into a right-tailed test.
+                Right-tailed tests are easier to calculate.
+                https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/f-test/
+                '''
+                if np.var(variable1) > np.var(variable2):
+                    F = np.var(variable1) / np.var(variable2)
+                else:
+                    F = np.var(variable2) / np.var(variable1)
+                df1 = len(variable1) - 1
+                df2 = len(variable2) - 1
+                p_value = scipy.stats.f.cdf(F, df1, df2)
+                if  p_value < alpha:
+                    return list([F, p_value, "Reject"])
+                else:
+                    return list([F, p_value, "Accept"])
+        \end{minted}
+        
+    \end{itemize}
+    % F TEST TABLE
+    \begin{table}[]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{@{}llllllll@{}}
+    \toprule
+    Sl. No. & Direction & Object Size & Object Size & Random Variable      & F-Value & P-Value & Null Hypothesis   \\ \midrule
+    0       & Straight  & small       & medium      & x(in cm)             & 1.02    & 0.54    & Suggest to accept \\
+    1       & Straight  & small       & medium      & y(in cm)             & 1.30    & 0.92    & Suggest to accept \\
+    2       & Straight  & small       & medium      & Orientation (in deg) & 9.37    & 1.00    & Suggest to accept \\
+    3       & Straight  & small       & large       & x(in cm)             & 1.49    & 0.98    & Suggest to accept \\
+    4       & Straight  & small       & large       & y(in cm)             & 2.06    & 1.00    & Suggest to accept \\
+    5       & Straight  & small       & large       & Orientation (in deg) & 2.97    & 1.00    & Suggest to accept \\
+    6       & Straight  & medium      & large       & x(in cm)             & 1.51    & 0.99    & Suggest to accept \\
+    7       & Straight  & medium      & large       & y(in cm)             & 2.68    & 1.00    & Suggest to accept \\
+    8       & Straight  & medium      & large       & Orientation (in deg) & 3.15    & 1.00    & Suggest to accept \\
+    9       & Right     & small       & medium      & x(in cm)             & 2.04    & 1.00    & Suggest to accept \\
+    10      & Right     & small       & medium      & y(in cm)             & 1.27    & 0.90    & Suggest to accept \\
+    11      & Right     & small       & medium      & Orientation (in deg) & 3.13    & 1.00    & Suggest to accept \\
+    12      & Right     & small       & large       & x(in cm)             & 1.02    & 0.54    & Suggest to accept \\
+    13      & Right     & small       & large       & y(in cm)             & 1.17    & 0.80    & Suggest to accept \\
+    14      & Right     & small       & large       & Orientation (in deg) & 1.68    & 1.00    & Suggest to accept \\
+    15      & Right     & medium      & large       & x(in cm)             & 2.00    & 1.00    & Suggest to accept \\
+    16      & Right     & medium      & large       & y(in cm)             & 1.09    & 0.67    & Suggest to accept \\
+    17      & Right     & medium      & large       & Orientation (in deg) & 1.86    & 1.00    & Suggest to accept \\
+    18      & Left      & small       & medium      & x(in cm)             & 1.02    & 0.53    & Suggest to accept \\
+    19      & Left      & small       & medium      & y(in cm)             & 1.11    & 0.72    & Suggest to accept \\
+    20      & Left      & small       & medium      & Orientation (in deg) & 10.05   & 1.00    & Suggest to accept \\
+    21      & Left      & small       & large       & x(in cm)             & 1.21    & 0.90    & Suggest to accept \\
+    22      & Left      & small       & large       & y(in cm)             & 1.87    & 1.00    & Suggest to accept \\
+    23      & Left      & small       & large       & Orientation (in deg) & 4.97    & 1.00    & Suggest to accept \\
+    24      & Left      & medium      & large       & x(in cm)             & 1.19    & 0.88    & Suggest to accept \\
+    25      & Left      & medium      & large       & y(in cm)             & 1.68    & 1.00    & Suggest to accept \\
+    26      & Left      & medium      & large       & Orientation (in deg) & 2.02    & 1.00    & Suggest to accept \\ \bottomrule
+    \end{tabular}%
+    }
+    \caption{Results of F-test}
+    \label{tab:f-test}
+    \end{table}
+    
+    
+\end{document}

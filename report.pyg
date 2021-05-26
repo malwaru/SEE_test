@@ -1,0 +1,18 @@
+            import scipy
+            def f_test(variable1, variable2, alpha=0.05):
+                '''
+                The larger variance should always go in the numerator (the top number) to force the test into a right-tailed test.
+                Right-tailed tests are easier to calculate.
+                https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/f-test/
+                '''
+                if np.var(variable1) > np.var(variable2):
+                    F = np.var(variable1) / np.var(variable2)
+                else:
+                    F = np.var(variable2) / np.var(variable1)
+                df1 = len(variable1) - 1
+                df2 = len(variable2) - 1
+                p_value = scipy.stats.f.cdf(F, df1, df2)
+                if  p_value < alpha:
+                    return list([F, p_value, "Reject"])
+                else:
+                    return list([F, p_value, "Accept"])
